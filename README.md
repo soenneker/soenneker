@@ -6,7 +6,7 @@
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
-### I do stuff with data, I mean a lot of data:
+### I do stuff with data, I mean *a lot* of data:
 - Azure Cosmos DB
 - Azure Machine Learning
 - ML.NET
