@@ -1,5 +1,5 @@
 # ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Hi there, my name is Jake 
-### I build fast, easy-to-use tools while solving problems using exciting technologies
+### I build fast, easy-to-use tools that solve problems using exciting technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
