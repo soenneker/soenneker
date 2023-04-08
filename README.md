@@ -18,3 +18,4 @@
 - Fighting complexity and entropy
 - Architecture such as Event Driven, Responsibility, Clean, ...
 - Tests and continuous improvement
+- Talking to Large language models (like ChatGPT) 
