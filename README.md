@@ -16,6 +16,6 @@
 ### I like:
 - Knowledge, learning, and thought experiments
 - Fighting complexity and entropy
-- Architecture such as Event Driven, Responsibility, Clean, ...
+- Design patterns and architecture
 - Tests and continuous improvement
 - Talking to Large language models (like ChatGPT) 
