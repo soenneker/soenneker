@@ -18,5 +18,5 @@
 - Knowledge, learning, and thought experiments
 - Fighting complexity and entropy
 - Design patterns and architecture
-- Tests and continuous improvement
+- Automation, tests, and continuous improvement
 - Talking to Large language models (like ChatGPT) 
