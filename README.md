@@ -19,4 +19,6 @@
 - Fighting complexity and entropy
 - Design patterns and architecture
 - Automation, tests, and continuous improvement
-- Talking to Large language models (like ChatGPT) 
+- Talking to Large language models (like ChatGPT)
+
+![](https://hit.yhype.me/github/profile?user_id=4441470)
