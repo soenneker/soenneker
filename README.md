@@ -9,7 +9,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="width:50px" alt="Cloudflare"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:50px" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:50px" alt="JS"/>
-
+<img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" style="width:50px" alt="xUnit"/>
+<img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" style="width:50px" alt="Serilog"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1280px-Mldotnet.svg.png" style="width:50px" alt="ML.NET"/>
+<img src="https://azure.microsoft.com/svghandler/cognitive-services/?width=70" style="width:70px; height:50px;" alt="Azure Cognitive Services"/>
 ### I do stuff with data:
 - Azure Machine Learning
 - ML.NET
