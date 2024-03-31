@@ -12,7 +12,7 @@
 <img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" style="width:50px" alt="xUnit"/>
 <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" style="width:50px" alt="Serilog"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1280px-Mldotnet.svg.png" style="width:50px" alt="ML.NET"/>
-<img src="https://azure.microsoft.com/svghandler/cognitive-services/?width=70" style="width:70px; height:50px;" alt="Azure Cognitive Services"/>
+
 ### I do stuff with data:
 - Azure Machine Learning
 - ML.NET
