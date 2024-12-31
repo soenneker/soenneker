@@ -15,7 +15,7 @@
 
 - ⚖️ Pursuing knowledge, concepts, and philosophy
 - ⚔️ Battling complexity, chaos, and entropy with elegant solutions
-- 🏛️ Architectural design and implementing patterns
+- 🏛️ Designing architecture and implementing patterns
 - 🔄 Streamlining processes, testing, and striving for continuous improvement
 - 💬 Helping to bring AI into the world
 
