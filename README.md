@@ -1,30 +1,81 @@
-# ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Hi, I'm Jake 
-### Crafting *fast*, intuitive tools with cutting-edge tech to tackle challenges head-on
+<!-- Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png" width="140" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width:50px;" alt="C#" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="width:50px" alt=".NET"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="width:50px" alt="Azure" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="width:50px" alt="Blazor"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" style="width:50px" alt="Redis" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" style="width:50px" alt="Cosmos DB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:50px" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" style="width:50px" alt="Swagger"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" style="width:50px" alt="Cloudflare"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:50px" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:50px" alt="JS"/>
-<img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" style="width:50px" alt="xUnit"/>
-<img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" style="width:50px" alt="Serilog"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1280px-Mldotnet.svg.png" style="width:50px" alt="ML.NET"/>
+<h1 align="center">Jake Soenneker</h1>
 
-- ⚖️ Pursuing knowledge, concepts, and philosophy
-- ⚔️ Battling complexity and entropy with elegant solutions
-- 🏛️ Designing architecture and implementing patterns
-- 🔄 Streamlining processes, testing, with continuous improvement
-- 💬 Helping to bring AI into the world
+<p align="center">Building <strong>fast</strong>, reliable tools that solve real problems with modern tech.</p>
 
-### Ways to Support ❤️
+---
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Sponsor-171515?style=flat-square&logo=github)](https://github.com/sponsors/soenneker)
-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-fabe55?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/soenneker)
-- [![Thanks.dev](https://img.shields.io/badge/Thanks.dev-Support-fb4f14?style=flat-square)](https://thanks.dev/soenneker)
-- [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29abe0?style=flat-square&logo=ko-fi)](https://ko-fi.com/soenneker)
-- [![Patreon](https://img.shields.io/badge/Patreon-Support-f96854?style=flat-square&logo=patreon)](https://www.patreon.com/soenneker)
+### What I Do
+
+- Build scalable platforms that prioritize speed and stability  
+- Design clear, composable systems with strong boundaries  
+- Reduce complexity across infrastructure, code, and process  
+- Deliver reliable integrations with external services and APIs  
+- Drive performance and reliability across the stack  
+- Automate workflows to move fast with confidence  
+
+---
+
+### Stack Highlights
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="32" title="PowerShell" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="32" title="Blazor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" title="Bootstrap" />
+  <img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" height="32" title="xUnit" />
+  <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" height="32" title="Serilog" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1280px-Mldotnet.svg.png" height="32" title="ML.NET" />
+
+  <!-- Cloud & Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="32" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" title="GitHub Actions" />
+
+  <!-- Data / API -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="32" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32" title="OpenAPI / Swagger" />
+
+  <!-- Editors -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="32" title="Visual Studio" />
+
+</p>
+
+---
+
+### Support My Work
+
+<p align="center">
+  <a href="https://github.com/sponsors/soenneker">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-171515?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.buymeacoffee.com/soenneker">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-fabe55?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+  <a href="https://thanks.dev/soenneker">
+    <img src="https://img.shields.io/badge/Thanks.dev-fb4f14?style=for-the-badge" />
+  </a>
+  <a href="https://ko-fi.com/soenneker">
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi" />
+  </a>
+  <a href="https://www.patreon.com/soenneker">
+    <img src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon" />
+  </a>
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=4441470)
