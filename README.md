@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png" width="140" />
+  <img src="https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png" width="80" />
 </p>
 
 <h1 align="center">Jake Soenneker</h1>
