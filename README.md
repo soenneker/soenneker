@@ -42,11 +42,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1280px-Mldotnet.svg.png" height="32" title="ML.NET" />
 
   <!-- Cloud & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" title="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="32" title="Cloudflare" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" title="GitHub Actions" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" title="Azure" />
+<img src="https://img.icons8.com/color/48/azure-service-bus.png" height="32" title="Azure Service Bus" />
+<img src="https://www.svgrepo.com/show/448272/azure-blob-storage.svg" height="32" title="Azure Blob Storage" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="32" title="Cloudflare" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" title="GitHub Actions" />
+  
   <!-- Data / API -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="32" title="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32" title="OpenAPI / Swagger" />
