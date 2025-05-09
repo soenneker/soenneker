@@ -7,8 +7,6 @@
 
 <p align="center">Building <strong>fast</strong>, reliable tools that solve real problems with modern tech.</p>
 
----
-
 ### What I Do
 
 - Build scalable platforms that prioritize speed and stability  
