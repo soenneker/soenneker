@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32" title="OpenAPI / Swagger" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azure_Cosmos_DB.svg/1024px-Azure_Cosmos_DB.svg.png" height="32" title="Azure Cosmos DB" />
   <img src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" height="32" title="Stripe" />
-
+  <img src="https://devblogs.microsoft.com/semantic-kernel/wp-content/uploads/sites/78/2024/03/Large_SK_Logo-300x300.png" height="32" title="Semantic Kernel" />
   <!-- Tooling & Docs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="32" title="NuGet" />
   <!-- Editors -->
