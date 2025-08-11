@@ -51,6 +51,7 @@
   <!-- Data / API -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="32" width="32" title="Redis" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/OpenAPI.png" height="32" width="32" title="OpenAPI" />
+  <img src="https://ms-graph.gallerycdn.vsassets.io/extensions/ms-graph/kiota/1.28.100000001/1752255324745/Microsoft.VisualStudio.Services.Icons.Default" height="32" width="32" title="OpenAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="32" width="32" title="Swagger" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azure_Cosmos_DB.svg/1024px-Azure_Cosmos_DB.svg.png" height="32" width="32" title="Azure Cosmos DB" />
   <img src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" height="32" width="32" title="Stripe" />
