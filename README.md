@@ -82,9 +82,6 @@
   <a href="https://ko-fi.com/soenneker">
     <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi" />
   </a>
-  <a href="https://www.patreon.com/soenneker">
-    <img src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon" />
-  </a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=4441470)
