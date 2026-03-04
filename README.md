@@ -73,14 +73,8 @@
   <a href="https://github.com/sponsors/soenneker">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-171515?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.buymeacoffee.com/soenneker">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-fabe55?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
   <a href="https://thanks.dev/soenneker">
     <img src="https://img.shields.io/badge/Thanks.dev-fb4f14?style=for-the-badge" />
-  </a>
-  <a href="https://ko-fi.com/soenneker">
-    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi" />
   </a>
 </p>
 
